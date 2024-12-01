@@ -1,1 +1,1 @@
-rint( " welcome14 " )
+print( " welcome14 " )
